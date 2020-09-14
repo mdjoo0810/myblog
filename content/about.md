@@ -26,45 +26,41 @@ author = "Aaron"
 
 #### 지역기반 생활 공유 플랫폼 - 쌩유
 
-* IOS Client Application 개발
+* API 서버 개발, 배치 서버 개발
 
-* 사용기술 - Swift, Swift UI
+* 사용기술 - Java, Spring Boot, JPA, Flutter
 
 #### 세종시 자율주행 서비스
 
 * IOS Client Application 개발
 
-* 사용기술 - Swift, Swift UI
+* 사용기술 - Swift
 
 #### 사내 통합 관리 서비스 - Laon Task
 
-* IOS Client Application 개발
+* 사내 일정 관리 프로그램 API 서버 개발
 
-* 사용기술 - Swift, Swift UI
-
-#### 사내 FrontEnd 교육용 서버
-
-* IOS Client Application 개발
-
-* 사용기술 - Swift, Swift UI
+* 사용기술 - Node.js, Nest.js
 
 #### 포인트 적립 및 사용 플랫폼 백오피스 - Cash Cook
 
-* IOS Client Application 개발
+* 백오피스용 서버 개발 (유저 관리, 정산 등)
 
-* 사용기술 - Swift, Swift UI
+* 사용기술 - Java, Spring Boot, ByBatis
 
 #### 플랫폼 포인트 중앙 거래소 - Cashlink
 
-* IOS Client Application 개발
+* API 서버 개발
 
-* 사용기술 - Swift, Swift UI
+* Mobile Web 개발
+
+* 사용기술 - Java, Spring Boot, MyBatis, Typescript, React.js
 
 #### 사내 간식 서비스 - Laon Snack
 
-* IOS Client Application 개발
+* KIOSK 서버 및 클라이언트 앱 서버 개발
 
-* 사용기술 - Swift, Swift UI
+* 사용기술 - Kotlin, Spring Boot, JPA
 
 #### 건축 중계 플랫폼 - HousePuzzle
 
@@ -80,34 +76,6 @@ author = "Aaron"
 
 * 사용기술 - Swift, Swift UI
 
-
-<!-- - 사내 Frontend 교육용 API 서버 개발
-
-    사내 신입 교육용 API 서버 개발
-
-    Node.js, Koa, Typescript
-
-- 암호화폐 거래소 개발
-
-    Frontend 및 Backend 개발에 참여
-
-    React - Typescript 사용 Web 개발
-
-    ReactNative Webview 를 통한 App 개발
-
-    Spring Boot - Mybatis 를 이용 Backend 개발
-
-    Spring Clouds - Neflix OSS 로 MSA 개발 참여
-
-- 사내 간식 프로그램 개발
-
-    사내 매점 키오스크 및 사용자 App 서버 개발
-
-    Spring Boot - JPA - Kotlin을 이용 Backend 개발
-
-- 건축 중계 플랫폼 개발
-
-- 공유 킥보드 플랫폼 IOS App 개발 (Mate IOS) -->
 
 ---
 
